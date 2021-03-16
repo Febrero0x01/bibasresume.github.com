@@ -117,7 +117,7 @@ Go to `/src/template.html` and fill your information, they are 5 sections:
 <div id="hero" class="jumbotron">
   <div class="container">
     <h1 class="hero-title" class="load-hidden">
-      Hi, my name is <span class="text-color-main">Your Name</span>
+      Hi, my name is <span class="text-color-main">Bibas Bajgain</span>
       <br />
       I'm the Unknow Developer.
     </h1>
@@ -335,3 +335,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments 🎁
 
 I was motivated to create this project because I wanted to contribute on something useful for the dev community, thanks to [ZTM Community](https://github.com/zero-to-mastery) and [Andrei](https://github.com/aneagoie)
+# bibasresume.github.com
